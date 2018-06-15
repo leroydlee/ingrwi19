@@ -1,9 +1,18 @@
-
 p{
     color: red;
+}
+h1{
+    text-transform: uppercase;
+
 }
 main{
     width: 50%;
     margin: 0 auto;
+}
 
+strong{
+font-weight: bold;
+color: red;
+text-align: center;
+text-transform: uppercase;
 }
